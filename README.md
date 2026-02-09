@@ -4,7 +4,7 @@ Instructions for adding a low-latency information display to all modern Digital 
 DJ HUD
 A Mixer 'Mounted' Secondary Screen for DJ Software
 Problem:
-1) Interesting Peripherals providing Serato Track Info and Waveforms having a short lifespan before getting pulled off the market (eg:Numark Dashboard, Rane 72 mixer), and built in options running a premium (Pioneer DJ DJM-S11; Rane Performer, System One mixdeck controllers)
+1) Equipment and Peripherals providing Serato Track Info and Waveforms having a short lifespan before getting pulled off the market (eg:Numark Dashboard, Rane 72 mixer), and built in options running a premium (Pioneer DJ DJM-S11; Rane Performer, System One mixdeck controllers)
 
 2) Secondary Screen needs to be low latency or it will be useless at best, a detriment at worst.
 
